@@ -1,5 +1,8 @@
 # REST API SDK for PHP
 
+There is alternate fork
+https://packagist.org/packages/bennetgallein/rest-api-sdk-php
+
 ![Home Image](https://raw.githubusercontent.com/wiki/paypal/PayPal-PHP-SDK/images/homepage.jpg)
 
 [![Build Status](https://travis-ci.org/paypal/PayPal-PHP-SDK.svg?branch=master)](https://travis-ci.org/paypal/PayPal-PHP-SDK)
