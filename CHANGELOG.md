@@ -1,6 +1,10 @@
 PayPal PHP SDK release notes
 ============================
 
+1.14.0
+-----
+* Support psr/log 2 and 3 (adds `: void` to `PayPalLogger::log()`, requires PHP >= 7.1).
+
 1.13.0
 -----
 * Add HUF as a non-decimal currency [#974](https://github.com/paypal/PayPal-PHP-SDK/pull/974).
